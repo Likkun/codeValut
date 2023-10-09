@@ -3,6 +3,10 @@
 ### Folders
 * .NET Code
   * Will add when able
+* Python Code
+  * Will add when able
+* Powershell Scripts
+  * Will add when able
 * SQL Snippets 
   * Will Add when able
 * Unity Code
