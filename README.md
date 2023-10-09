@@ -1,5 +1,6 @@
-# codeValut
+# Code Vault, David Pabers Code samples and examples
 
-## Unity Code
-### SideScrollerGame
-This is code from a personal Unity Project
+## Folders
+* Unity Code
+  * SideScrollerGame
+    * This is code from a personal Unity Project
